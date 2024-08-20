@@ -1,27 +1,8 @@
-# Acessibilidade na Web
-
-## Títulos
-
-"Web Inclusiva: Tornando a Internet Acessível para Todos"
-"Design Universal: A Chave para uma Web Sem Barreiras"
-"Acessibilidade Digital: Transformando Experiências Online"
-"Navegação Sem Limites: A Importância da Acessibilidade na Web"
-"Acessibilidade na Web: Derrubando Barreiras Invisíveis"
-"IoP: Internet das Pessoas"
-
-## Minibiografia
-
-Ryan Monteiro é um desenvolvedor de aplicações com uma carreira iniciada em 2018. Desde então, ele tem se dedicado a criar soluções tecnológicas com um foco especial em acessibilidade na web e design universal. Ryan acredita que a tecnologia deve ser uma ferramenta que empodera todos, independentemente de suas limitações, e trabalha bastante para alcançar esse objetivo em cada projeto que realiza e apresentar para os outros o quão fácil é implementar essas ferramentas.
-
-## Brainstorm
-
-Storybook pensando em componentização da aplicação
-
-Acessibilidade pensando em uso contínuo da plataforma por todos da melhor forma, o tal do Design Universal
+# Web Inclusiva: Tornando a Internet Acessível para todos
 
 ## Descrição
 
-O ambiente da Internet possui muitas barreiras invisíveis que só sentimos quando menos esperamos, como ao acessar um site em outra língua ou quando não podemos olhar para a tela, porém quando o site é desenvolvido com as diretrizes corretas o resultado é alcançado. Diretrizes como WCAG e ferramentas como Web Semântica são exatamente o que vamos conhecer e entender como funcionam.
+Você já sentiu que um espaço não foi pensado para você? Talvez um ambiente com um idioma desconhecido, algum local apertado ou muito alto, ou seja, algum lugar que você não consiga acessar. Na Web não é diferente, por isso vamos aprender algumas ferramentas e diretrizes que auxiliam o conteúdo a ser transmitido para todos de forma acessível, independente da interface que esteja utilizando, seja navegando através do toque na tela, pelo mouse, somente com um teclado ou até por voz. Ao entendermos a importância de desenvolver essa multiexperiência, temos como resultado uma aplicação com qualidade de código, acessível e leve.
 
 ## Objetivos
 
@@ -67,6 +48,12 @@ Alguns exemplos de ações que o guia descreve:
 
 Apresentar algumas ferramentas de testes de Acessibilidade, como Leitores de Tela, Testadores de contraste, Validadores de acessibilidade.
 
+Alguns retornos para sites que utilizam acessibilidade
+
+- Mais fácil de desevolver e fazer manutenção
+- Código mais leve
+- Mais eficiente para o SEO
+
 Concluir com a reflexão de que todos se beneficiam com espaços planejados e desenvolvidos para a inclusão da maior quantidade de pessoas.
 
 ## Links
@@ -74,9 +61,8 @@ Concluir com a reflexão de que todos se beneficiam com espaços planejados e de
 - [Título e Descrição](https://medium.com/womakerscode/speaker-tips-criando-uma-proposta-de-palestra-461d1cf187f4)
 - [Como organizar uma palestra](https://rockcontent.com/br/blog/como-organizar-uma-palestra/)
 
-
-
 ## Referências
 
 - [Cartões de Acessibilidade](https://guia-wcag.com/)
 - [O que é ARIA?](https://web.dev/articles/semantics-aria?hl=pt-br)
+- [Era da Multiexperiência](https://edu.ieee.org/br-ufcgras/era-da-multiexperiencia-o-caminho-para-a-transformacao-digital/)

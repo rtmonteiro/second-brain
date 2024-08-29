@@ -66,3 +66,5 @@ Concluir com a reflexão de que todos se beneficiam com espaços planejados e de
 - [Cartões de Acessibilidade](https://guia-wcag.com/)
 - [O que é ARIA?](https://web.dev/articles/semantics-aria?hl=pt-br)
 - [Era da Multiexperiência](https://edu.ieee.org/br-ufcgras/era-da-multiexperiencia-o-caminho-para-a-transformacao-digital/)
+- [Introduction to Web Accessibility](https://a11y.coffee/intro/)
+- [Avaliação de Acessibilidade das páginas mais acessadas no mundo](https://webaim.org/projects/million/)

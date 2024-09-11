@@ -65,6 +65,7 @@ Alguns retornos para sites que utilizam acessibilidade
 - Código mais leve
 - Mais eficiente para o SEO
 
+Comentar sobre a Lei Brasileira de Inclusão/Estatuto da Pessoa com Deficiência
 Concluir com a reflexão de que todos se beneficiam com espaços planejados e desenvolvidos para a inclusão da maior quantidade de pessoas.
 
 ## Links
@@ -80,3 +81,4 @@ Concluir com a reflexão de que todos se beneficiam com espaços planejados e de
 - [Introduction to Web Accessibility](https://a11y.coffee/intro/)
 - [Avaliação de Acessibilidade das páginas mais acessadas no mundo](https://webaim.org/projects/million/)
 - Lei n° 10.436/2002; Lei Brasileira de Inclusão/Estatuto da Pessoa com Deficiência.
+- [Mapa da Alteridade](https://brasil.uxdesign.cc/mapa-da-alteridade-uma-ferramenta-colaborativa-de-design-inclusivo-2df21f9882f8)

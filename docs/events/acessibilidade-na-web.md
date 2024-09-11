@@ -68,3 +68,4 @@ Concluir com a reflexão de que todos se beneficiam com espaços planejados e de
 - [Era da Multiexperiência](https://edu.ieee.org/br-ufcgras/era-da-multiexperiencia-o-caminho-para-a-transformacao-digital/)
 - [Introduction to Web Accessibility](https://a11y.coffee/intro/)
 - [Avaliação de Acessibilidade das páginas mais acessadas no mundo](https://webaim.org/projects/million/)
+- Lei n° 10.436/2002; Lei Brasileira de Inclusão/Estatuto da Pessoa com Deficiência.

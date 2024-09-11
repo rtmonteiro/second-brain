@@ -14,6 +14,8 @@ Você já sentiu que um espaço não foi pensado para você? Talvez um ambiente 
 
 ## Roteiro
 
+### Introdução
+
 Começar comunicando "Bom dia à todos, o tema dessa palestra é acessibilidade na Web" em libras e logo depois perguntando como alguém que não fala Libras se sentiu, e explicando como algumas pessoas se sentem durante o dia a dia
 
 Exemplos de espaços não acessíveis:
@@ -24,11 +26,14 @@ Exemplos de espaços não acessíveis:
 
 As interfaces podem ser inacessíveis de uma hora para outra, basta surgir uma barreira de comunicação para sentirmos a necessidade de ferramentas que nos ajude a derrubar essa limitação.
 
+
+### Experiência Web
+
 Na web não é diferente, diversos Portais, Sites ou Aplicativos não são pensados para usos intuitivos além da tela. Imagine que no momento de pedir um uber você pudesse falar com seu celular "favor pedir um Uber para casa" e o dispositivo prontamente chamasse um carro para você.
 
 Imagine que você está a caminho de casa, e lembra que precisa ler um artigo sobre as notícias do último semestre de investimentos no mercado financeiro. O seu navegador possui uma funcionalidade que lê somente a parte do conteúdo do artigo e você consegue escutar as palavras da matéria ignorando todo resto da estrutura do site.
 
-Porém isso só é possível se o desenvolvedor fez o site com o conhecimento de web semânctico, que não é algo complicado, é somente a forma de dizer para o navegador o que é aquele elemento.
+Porém isso só é possível se o desenvolvedor fez o site com o conhecimento de web semântico, que não é algo complicado, é somente a forma de dizer para o navegador o que é aquele elemento.
 
 Pois da mesma forma que a web permite o dev construir um site utilizando somente `div` e `span`, a consequência é que o navegador não vai entender qual o comportamento esperado do seu elemento, e você perde uma grande ajuda em apresentar as informações para um público maior do que somente a tela alcança.
 
@@ -38,6 +43,8 @@ O atributo `role` permite indicar o comportamento que um elemento div deve se co
 
 Só o `role` possui mais de 80 valores para aumentar a descrição daquele elemento, e isso tem impacto em como o foco do usuário deve ser.
 
+### Guias WCAG
+
 Existem padrões a seguir definidos pela Web Content Accessibility Guidelines (WCAG), que descrevem uma base de critérios para alcançar um produto digital verdadeiramente inclusivo e acessível.
 
 Alguns exemplos de ações que o guia descreve:
@@ -46,7 +53,11 @@ Alguns exemplos de ações que o guia descreve:
 
 - **1.4.1 - Utilização de cores:** Cores não devem ser utilizadas como única maneira de transmitir conteúdo ou distinguir elementos visuais, para evitar que baixo constrante ou qualquer outro motivo de distinção visual cause erros no uso. Uma cenário é, uma mensagem de erro em um formulário deve trazer um ícone de alerta.
 
+### Ferramentas de Teste de Acessibilidade
+
 Apresentar algumas ferramentas de testes de Acessibilidade, como Leitores de Tela, Testadores de contraste, Validadores de acessibilidade.
+
+### Conclusão
 
 Alguns retornos para sites que utilizam acessibilidade
 

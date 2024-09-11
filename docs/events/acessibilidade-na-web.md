@@ -6,7 +6,7 @@ Você já sentiu que um espaço não foi pensado para você? Talvez um ambiente 
 
 ## Objetivos
 
-1. Desmitificar para que e para quem serve a Acessibilidade
+1. Desmistificar para que e para quem serve a Acessibilidade
 1. Intensificar a importância da Web Semântica
 1. Apresentar os principais atributos HTML sobre acessibilidade
 1. Demonstrar como funcionam as ferramentas de verificação de acessibilidade na web
@@ -38,13 +38,13 @@ O atributo `role` permite indicar o comportamento que um elemento div deve se co
 
 Só o `role` possui mais de 80 valores para aumentar a descrição daquele elemento, e isso tem impacto em como o foco do usuário deve ser.
 
-Existem padrões a seguir definidos pela Web Content Accessibility Guidelines (WCAG), que descrevem uma base de critérios para alcançar um produto digital verdadeiramente inclusivos e acessíveis.
+Existem padrões a seguir definidos pela Web Content Accessibility Guidelines (WCAG), que descrevem uma base de critérios para alcançar um produto digital verdadeiramente inclusivo e acessível.
 
 Alguns exemplos de ações que o guia descreve:
 
-- **1.1.1 - Conteúdo não textual**: Qualquer conteúdo "não textual" e relevante para compreensão da informação, deve trazer uma descrição alternativa em texto (visível ou não) para identificar o conteúdo (inclusive captcha, por exemplo).
+- **1.1.1 - Conteúdo não textual:** Qualquer conteúdo "não textual" e relevante para compreensão da informação, deve trazer uma descrição alternativa em texto (visível ou não) para identificar o conteúdo (inclusive captcha, por exemplo).
 
-- **1.4.1 - Utilização de cores**: Cores não devem ser utilizadas como única maneira de transmitir conteúdo ou distinguir elementos visuais, para evitar que baixo constrante ou qualquer outro motivo de distinção visual cause erros no uso. Uma cenário é, uma mensagem de erro em um formulário deve trazer um ícone de alerta.
+- **1.4.1 - Utilização de cores:** Cores não devem ser utilizadas como única maneira de transmitir conteúdo ou distinguir elementos visuais, para evitar que baixo constrante ou qualquer outro motivo de distinção visual cause erros no uso. Uma cenário é, uma mensagem de erro em um formulário deve trazer um ícone de alerta.
 
 Apresentar algumas ferramentas de testes de Acessibilidade, como Leitores de Tela, Testadores de contraste, Validadores de acessibilidade.
 
